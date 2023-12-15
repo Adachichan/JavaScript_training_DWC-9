@@ -6,7 +6,14 @@
 // console.log(nickname);
 
 // letによる再代入
-let nickname = "taro";
+// let nickname = "taro";
+// console.log(nickname);
+
+// nickname = "jiro";
+// console.log(nickname);
+
+// constによる再代入
+const nickname = "taro";
 console.log(nickname);
 
 nickname = "jiro";
